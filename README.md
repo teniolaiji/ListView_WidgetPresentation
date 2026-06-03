@@ -4,7 +4,7 @@ A widget to enable scroll functionality in an app, either vertically or horizont
 
 ## Attributes 
 - scrollDrirection: defines the direction of scrolling; can either be vertical or horizontal
-- padding: prevents content from touching the screen
+- padding: prevents content from touching the screen edges
 - reverse: boolean value of true to make the last child become the first 
 
 ## Setup instuctions
