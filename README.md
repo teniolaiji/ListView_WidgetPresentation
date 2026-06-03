@@ -2,6 +2,11 @@
 ## ListView Widget
 A widget to enable scroll functionality in an app, either vertically or horizontally
 
+## Attributes 
+- scrollDrirection: defines the direction of scrolling; can either be vertical or horizontal
+- padding: prevents content from touching the screen
+- reverse: boolean value of true to make the last child become the first 
+
 ## Setup instuctions
 1. Ensure Flutter is installed, check with ```flutter --version```
 2. Clone this repo: ```git clone https://github.com/teniolaiji/ListView_WidgetPresentation.git```
